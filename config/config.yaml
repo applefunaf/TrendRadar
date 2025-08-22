@@ -71,7 +71,5 @@ platforms:
     name: "抖音"
   - id: "v2ex"
     name: "v2ex"
-  - id: "hacknews"
-    name: "hacknews"
   - id: "producthunt"
     name: "producthunt"
